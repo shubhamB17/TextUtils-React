@@ -1,0 +1,36 @@
+.about-container{
+  background-image: url('C:\Users\shubh\OneDrive\Desktop\React Course\my-app\src\Components\contact-us-background.jpg');
+  background-size: cover;
+  background-position: center;
+  height: 100vh; /* Set the height of the container to be the full height of the viewport */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+} 
+.us-container{
+  text-align: left;
+  padding: 20px;
+  border-radius: 10px;
+  text-align: left;
+  margin-right: auto;
+}
+.us-container h1{
+    color: rgb(216, 211, 68);
+    font-style: italic;
+    text-underline-position: below;
+    text-align: left;
+}
+.us-container p{
+    text-align: left;
+    color: white;
+    font-size: medium;
+    font-style: inherit;
+    text-align: left;
+}
+.contact-container{
+  background-image: url('C:\Users\shubh\OneDrive\Desktop\React Course\my-app\public\contact1.jpg');
+  background-size: cover;
+  background-position: center;
+  height: 100vh; /* Set the height of the container to be the full height of the viewport */
+  display: flex;
+}
