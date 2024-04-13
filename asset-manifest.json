@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/TextUtils-react/static/css/main.2ef881c9.css",
+    "main.js": "/TextUtils-react/static/js/main.4c87e136.js",
+    "static/js/453.ed3810f9.chunk.js": "/TextUtils-react/static/js/453.ed3810f9.chunk.js",
+    "static/media/contact-us-background.jpg": "/TextUtils-react/static/media/contact-us-background.855a4ceecdd456e709ad.jpg",
+    "static/media/contact1.jpg": "/TextUtils-react/static/media/contact1.7a0253ab0d05b2fad6d5.jpg",
+    "index.html": "/TextUtils-react/index.html",
+    "main.2ef881c9.css.map": "/TextUtils-react/static/css/main.2ef881c9.css.map",
+    "main.4c87e136.js.map": "/TextUtils-react/static/js/main.4c87e136.js.map",
+    "453.ed3810f9.chunk.js.map": "/TextUtils-react/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ef881c9.css",
+    "static/js/main.4c87e136.js"
+  ]
+}
